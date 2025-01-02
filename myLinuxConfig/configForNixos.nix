@@ -102,7 +102,7 @@
 	kitty
 	brave
 	fastfetch
-	dolphin
+	nemo-with-extensions
 	swayfx-unwrapped
 	rofi-wayland-unwrapped
 	waybar	
@@ -110,7 +110,6 @@
 	pipewire
 	wireplumber
 	xdg-desktop-portal-hyprland
-	nnn
 	mesa
 	hyprlock
 	vscode
@@ -119,6 +118,7 @@
 	hyprpaper
 	line-awesome
 	hyprshot
+	stow
 	#swaynotificationcenter #not working need to config
   ];
 
